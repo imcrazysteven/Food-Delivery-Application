@@ -7,7 +7,7 @@
 
 ## 🔗 Links
 - Live: https://foodzonenewapp.netlify.app/
-- Code: https://github.com/dodger213/Food-Delivery-Application.git
+- Code: https://github.com/imcrazysteven/Food-Delivery-Application.git
 
 ## Table of Contents
 
